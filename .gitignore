@@ -3,3 +3,4 @@ spark_python_env/
 01-HelloSpark/__pycache__/
 01-HelloSpark/lib/__pycache__
 02-HelloRDD/lib/__pycache__
+02-HelloSparkSQL/lib/__pycache__
