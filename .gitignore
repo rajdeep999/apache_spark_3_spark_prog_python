@@ -5,3 +5,7 @@ spark_python_env/
 02-HelloRDD/lib/__pycache__
 03-HelloSparkSQL/lib/__pycache__
 04-SparkSchemaDemo/lib/__pycache__
+05-SparkDataSinkDemo/lib/__pycache__
+05-SparkDataSinkDemo/output_data
+
+
