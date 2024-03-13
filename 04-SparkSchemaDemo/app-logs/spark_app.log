@@ -1,0 +1,6 @@
+24/03/13 17:30:23 INFO SparkSchemaDemo: CSV DF Schema
+24/03/13 17:30:23 INFO SparkSchemaDemo: null
+24/03/13 17:30:23 INFO SparkSchemaDemo: JSON DF Schema
+24/03/13 17:30:23 INFO SparkSchemaDemo: null
+24/03/13 17:30:26 INFO SparkSchemaDemo: Parquet DF Schema
+24/03/13 17:30:26 INFO SparkSchemaDemo: null
