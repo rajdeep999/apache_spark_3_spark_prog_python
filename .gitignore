@@ -7,5 +7,9 @@ spark_python_env/
 04-SparkSchemaDemo/lib/__pycache__
 05-SparkDataSinkDemo/lib/__pycache__
 05-SparkDataSinkDemo/output_data
+06-SparkSQLTableDemo/lib/__pycache__
+06-SparkSQLTableDemo/metastore_db/
+06-SparkSQLTableDemo/spark-warehouse/
+06-SparkSQLTableDemo/derby.log
 
 
