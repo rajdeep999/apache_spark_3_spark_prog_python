@@ -13,4 +13,5 @@ spark_python_env/
 06-SparkSQLTableDemo/derby.log
 07-RowDemo/__pycache__
 07-RowDemo/lib/__pycache__
+08-LogFileDemo/__pycache__
 
