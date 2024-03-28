@@ -14,4 +14,6 @@ spark_python_env/
 07-RowDemo/__pycache__
 07-RowDemo/lib/__pycache__
 08-LogFileDemo/__pycache__
+09-ColumnDemo/__pycache__
+09-ColumnDemo/lib/__pycache__
 
