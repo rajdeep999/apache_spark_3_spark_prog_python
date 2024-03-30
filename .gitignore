@@ -22,3 +22,4 @@ spark_python_env/
 12-AggDemo/lib/__pycache__
 12-AggDemo/spark-warehouse
 13-WindowingDemo/lib/__pycache__
+14-SparkJoinDemo/lib/__pycache__
