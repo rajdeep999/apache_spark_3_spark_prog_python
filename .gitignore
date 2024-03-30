@@ -24,3 +24,5 @@ spark_python_env/
 13-WindowingDemo/lib/__pycache__
 14-SparkJoinDemo/lib/__pycache__
 15-OuterJoinDemo/lib/__pycache__
+16-ShuffleJoinDemo/data
+16-ShuffleJoinDemo/lib/__pycache__
