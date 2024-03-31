@@ -28,3 +28,8 @@ spark_python_env/
 16-ShuffleJoinDemo/lib/__pycache__
 17-BroadcastJoinDemo/data
 17-BroadcastJoinDemo/lib/__pycache__
+18-BucketJoinDemo/data
+18-BucketJoinDemo/lib/__pycache__
+18-BucketJoinDemo/metastore_db
+18-BucketJoinDemo/spark-warehouse
+18-BucketJoinDemo/derby.log
