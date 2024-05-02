@@ -33,3 +33,5 @@ spark_python_env/
 18-BucketJoinDemo/metastore_db
 18-BucketJoinDemo/spark-warehouse
 18-BucketJoinDemo/derby.log
+sbdl_project/.pytest_cache
+sbdl_project/lib/__pycache__
